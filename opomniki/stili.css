@@ -30,8 +30,8 @@ telo {
 }
 
 .rob {
-	border: 1px solid transparent; 
-	border-color: #C30C21; 
+	border: 100px; 
+	border-color: #000000; 
 	border-radius: 4px; 
 }
 
@@ -60,6 +60,8 @@ telo {
   display: flex;
   align-items: center;
   justify-content: center;
+  opacity: .85;
+
 }
 
 #uporabniskiObrazec {
